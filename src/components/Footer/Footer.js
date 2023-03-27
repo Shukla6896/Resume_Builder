@@ -1,5 +1,5 @@
 import styles from "./Footer.css";
-export default function Footer(){
+export default function Footer() {
     return (
         <div className="footer-container">
             <div className="footer-section">
@@ -9,9 +9,9 @@ export default function Footer(){
             </div>
             <div className="footer-section">
                 <p className="title">Contact Us</p>
-                <p>ankitaawasarmol04@gmail.com</p>
+                <p>saurabhshuklamtss1@gmail.com</p>
                 <p>+342-5324-9454</p>
-                <p>2393 Street NYC</p>
+                <p>Ambedakar Nagar</p>
             </div>
             <div className="footer-section">
                 <p className="title">Socials</p>
